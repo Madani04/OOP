@@ -42,4 +42,10 @@ beberapa prosedural programing
  7. konsep  setter & getter (terkait enkapsulasi)
  8. static methode (banyak digunakan di dalam frame works)
  
+ lanjutan pembelajaran opp
+ 1. abstrak & interface
+ 2. interceptor
+ 3. object cloning (menduplikasi objek sehingga memliki perilaku berbeda)
+ 4. callback&clousure
+ 5. namespaces & autoloading
  
