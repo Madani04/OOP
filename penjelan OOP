@@ -1,0 +1,33 @@
+OOP => merupakan gaya pemerograman / paragdima pemerograman casara menuliskan kode programan masing masing
+
+beberapa prosedural programing 
+1. Instruksi dilakukan langkah demi langkah
+2. Memecah program menjadi bagian-bagian yang kecil
+3. Disebut subroutine atau dunction
+4. Linear / Top-to-Bottom
+5. Gaya pengerjaan prosedural : fortan, ALGOL, COBOL, Pascal, C, PHP, javascript 
+
+ kenapa memilih prosedural ?
+ 1. bahasa pemerograman to-the-point
+ 2. simplicity kemudahan untuk dibaca dan dikelola oleh kompailer maupun interpreter
+ 3. mudah untuk menelusuri 
+ 4. membutukan lebih sedikit memori pada saat eksekusinya di bandingkan oop
+ 
+ karakteristik oop?
+ 1. dengan mengunakaan kita dapat menyusun kode program dan data sebagai objek
+ 2. karakteristik objek merukapan prog iniduk dari unit program
+ 3. didalam objek bisa menyimpan data dan perilaku dari perogram kita
+ 4. objek bisa saling berinteraksi 
+ 5. beberapa bahas yang menggunakan paradima oop java, ruby, php 5 ke atas, c++, javascript
+ 
+ kelebihan oop ?
+ 1.lebih mundah merepresentasikan yang ada didunia nyata 
+ 2.kekuatan dari opp enkapsulasi dan abstraksi data 
+    enkapsulasi data yang dibuat akan aman dari sisi tidak dapat di akses dari bagian lain di dalam data
+    memper mudah dari kerumitan data dalam pemrograman
+ 3. konsep reusability dapan menggunakan ulang dari pemerograman yang telah di buat
+ 4. skalabilitas & ekstensibilitas
+    membudahkan jika programnya akan menjadi besar 
+ 5. kemudahan pengelolaan 
+ 6. kolaborasi ,lebih mudah jika menggunakan opp
+ 7. konsep oop digunakan oleh framework PHP
