@@ -31,3 +31,15 @@ beberapa prosedural programing
  5. kemudahan pengelolaan 
  6. kolaborasi ,lebih mudah jika menggunakan opp
  7. konsep oop digunakan oleh framework PHP
+ 
+ Basic pembelajaran ?
+ 1. class & object
+ 2. property & method
+ 3. constructor(karakteristik program)
+ 4. object type (membuat objek sebagai type data)
+ 5. inheritance (pewarisan , dimana sebuah kelas atau objek bisa mewarisi perilaku satu sama lain
+ 6. visivility / access modifier (data data tidak bisa sembarang di akses bagian lain)
+ 7. konsep  setter & getter (terkait enkapsulasi)
+ 8. static methode (banyak digunakan di dalam frame works)
+ 
+ 
